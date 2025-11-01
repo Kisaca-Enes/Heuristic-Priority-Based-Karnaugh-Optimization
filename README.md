@@ -129,7 +129,7 @@ New Simplified (ABCD): ['ABC', 'ABC']
 2. Manipulation-resistant → hierarchical X/Y usage
 3. User-configurable → variable names and Y addition levels
 4. Wrap-around support → preserves classical K-Map functionality
-
+Heuristic K-Map optimizer with controlled Y-cells to minimize manipulation and enhance simplification.
 ---
 
 ## Disadvantages
